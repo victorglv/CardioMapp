@@ -1,0 +1,16 @@
+C:\Users\victo\source\repos\CardioMap\CardioMap\CardioMap\bin\Debug\netstandard2.0\CardioMap.deps.json
+C:\Users\victo\source\repos\CardioMap\CardioMap\CardioMap\bin\Debug\netstandard2.0\CardioMap.dll
+C:\Users\victo\source\repos\CardioMap\CardioMap\CardioMap\bin\Debug\netstandard2.0\ref\CardioMap.dll
+C:\Users\victo\source\repos\CardioMap\CardioMap\CardioMap\bin\Debug\netstandard2.0\CardioMap.pdb
+C:\Users\victo\source\repos\CardioMap\CardioMap\CardioMap\obj\Debug\netstandard2.0\CardioMap.csprojAssemblyReference.cache
+C:\Users\victo\source\repos\CardioMap\CardioMap\CardioMap\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\victo\source\repos\CardioMap\CardioMap\CardioMap\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\victo\source\repos\CardioMap\CardioMap\CardioMap\obj\Debug\netstandard2.0\CardioMap.AssemblyInfoInputs.cache
+C:\Users\victo\source\repos\CardioMap\CardioMap\CardioMap\obj\Debug\netstandard2.0\CardioMap.AssemblyInfo.cs
+C:\Users\victo\source\repos\CardioMap\CardioMap\CardioMap\obj\Debug\netstandard2.0\CardioMap.csproj.CoreCompileInputs.cache
+C:\Users\victo\source\repos\CardioMap\CardioMap\CardioMap\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\victo\source\repos\CardioMap\CardioMap\CardioMap\obj\Debug\netstandard2.0\CardioMap.dll
+C:\Users\victo\source\repos\CardioMap\CardioMap\CardioMap\obj\Debug\netstandard2.0\ref\CardioMap.dll
+C:\Users\victo\source\repos\CardioMap\CardioMap\CardioMap\obj\Debug\netstandard2.0\CardioMap.pdb
+C:\Users\victo\source\repos\CardioMap\CardioMap\CardioMap\obj\Debug\netstandard2.0\Views\Perfil.xaml.g.cs
+C:\Users\victo\source\repos\CardioMap\CardioMap\CardioMap\obj\Debug\netstandard2.0\Views\PerfilOpciones.xaml.g.cs

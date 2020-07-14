@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="CardioMap.Views.PerfilOpciones">
+    <StackLayout>
+        <Label Text="VENTANA PERFIL" 
+               FontSize="Large" 
+               HorizontalOptions="Center" TextColor="#3499D5"/>
+        <Button x:Name ="btnEditar"
+                Text="Editar Perfil"
+                Clicked="OnButton_Clicked" BackgroundColor="#6DA099" FontAttributes="Bold" FontSize="Body" 
+                HorizontalOptions="Fill" VerticalOptions="Center"
+                Margin="120,5,120,120"
+                />
+    </StackLayout>
+</ContentPage>

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "w5AWWf2Uxog44jlAngY9aBhZYNrvPOOT37tdQ1BAZFle5qzIiJrv5XHYg6frygxaedO/2uRn+pf+XHVLsL/PRg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\victo\\source\\repos\\CardioMap\\CardioMap\\CardioMap.iOS\\CardioMap.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\victo\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.3.1\\xamarin.essentials.1.3.1.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.5.0.495\\xamarin.forms.4.5.0.495.nupkg.sha512"
+  ],
+  "logs": []
+}
